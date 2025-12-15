@@ -1,7 +1,7 @@
 # Hanibi (한니비)
 
 <div align="center">
-  <img src="thumbnail.png" alt="Hanibi Thumbnail" width="700">
+  <img src="../thumbnail.png" alt="Hanibi Thumbnail" width="700">
 </div>
 
 ## 1. 프로젝트 개요
